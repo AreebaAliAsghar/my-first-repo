@@ -1,2 +1,3 @@
 "this is my 1st github repository!"
-making changes in the file.
+Final merged content with both changes included.
+
